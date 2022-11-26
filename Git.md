@@ -226,3 +226,7 @@ git commit -m "FirstCommit"
 
 其中`-m "FirstCommit"`称作提交信息，是对提交的概述
 
+![image-20221126142452591](Git.assets/image-20221126142452591.png)
+
+如果直接用git commit命令,会启动一个编辑器,在编辑器中记录要提交的信息。
+
